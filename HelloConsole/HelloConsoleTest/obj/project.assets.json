@@ -19,6 +19,15 @@
           "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
           "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
         }
+      },
+      "HelloConsole/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/HelloConsole.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelloConsole.dll": {}
+        }
       }
     },
     ".NETFramework,Version=v4.6.1/win": {
@@ -38,6 +47,15 @@
         "runtime": {
           "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
           "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
+        }
+      },
+      "HelloConsole/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/HelloConsole.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelloConsole.dll": {}
         }
       }
     },
@@ -59,6 +77,15 @@
           "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
           "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
         }
+      },
+      "HelloConsole/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/HelloConsole.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelloConsole.dll": {}
+        }
       }
     },
     ".NETFramework,Version=v4.6.1/win-x86": {
@@ -78,6 +105,15 @@
         "runtime": {
           "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
           "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
+        }
+      },
+      "HelloConsole/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/HelloConsole.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelloConsole.dll": {}
         }
       }
     }
@@ -244,10 +280,16 @@
         "mstest.testframework.1.3.2.nupkg.sha512",
         "mstest.testframework.nuspec"
       ]
+    },
+    "HelloConsole/1.0.0": {
+      "type": "project",
+      "path": "../HelloConsole/HelloConsole.csproj",
+      "msbuildProject": "../HelloConsole/HelloConsole.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.6.1": [
+      "HelloConsole >= 1.0.0",
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2"
     ]
@@ -258,11 +300,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darevalo\\source\\repos\\HelloConsole\\HelloConsoleTest\\HelloConsoleTest.csproj",
-      "projectName": "HelloConsoleTest",
-      "projectPath": "C:\\Users\\darevalo\\source\\repos\\HelloConsole\\HelloConsoleTest\\HelloConsoleTest.csproj",
+      "projectUniqueName": "C:\\Users\\darevalo\\source\\repos\\HelloConsole\\HelloConsole\\helloConsoleTest\\helloConsoleTest.csproj",
+      "projectName": "helloConsoleTest",
+      "projectPath": "C:\\Users\\darevalo\\source\\repos\\HelloConsole\\HelloConsole\\helloConsoleTest\\helloConsoleTest.csproj",
       "packagesPath": "C:\\Users\\darevalo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darevalo\\source\\repos\\HelloConsole\\HelloConsoleTest\\obj\\",
+      "outputPath": "C:\\Users\\darevalo\\source\\repos\\HelloConsole\\HelloConsole\\helloConsoleTest\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -278,7 +320,11 @@
       },
       "frameworks": {
         "net461": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\darevalo\\source\\repos\\HelloConsole\\HelloConsole\\HelloConsole\\HelloConsole.csproj": {
+              "projectPath": "C:\\Users\\darevalo\\source\\repos\\HelloConsole\\HelloConsole\\HelloConsole\\HelloConsole.csproj"
+            }
+          }
         }
       }
     },

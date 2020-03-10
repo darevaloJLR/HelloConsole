@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using HelloConsole;
 
-namespace HelloConsoleTest
+namespace helloConsoleTest
 {
     [TestClass]
     public class UnitTest1
