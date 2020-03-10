@@ -1,0 +1,7 @@
+C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\HelloConsole\bin\Release\HelloConsole.exe.config
+C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\HelloConsole\bin\Release\HelloConsole.exe
+C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\HelloConsole\bin\Release\HelloConsole.pdb
+C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\HelloConsole\obj\Release\HelloConsole.csprojAssemblyReference.cache
+C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\HelloConsole\obj\Release\HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\HelloConsole\obj\Release\HelloConsole.exe
+C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\HelloConsole\obj\Release\HelloConsole.pdb

@@ -1,6 +1,3 @@
-C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\bin\Debug\helloConsoleTest.dll
 C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\bin\Debug\helloConsoleTest.pdb
 C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
@@ -13,3 +10,6 @@ C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\obj\De
 C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\obj\Debug\helloConsoleTest.csproj.CopyComplete
 C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\obj\Debug\helloConsoleTest.dll
 C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\obj\Debug\helloConsoleTest.pdb
+C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\helloConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

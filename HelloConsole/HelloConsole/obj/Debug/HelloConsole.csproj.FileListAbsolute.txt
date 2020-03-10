@@ -4,3 +4,4 @@ C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\HelloConsole\bin\Debug\
 C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\HelloConsole\obj\Debug\HelloConsole.csproj.CoreCompileInputs.cache
 C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\HelloConsole\obj\Debug\HelloConsole.exe
 C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\HelloConsole\obj\Debug\HelloConsole.pdb
+C:\Users\darevalo\source\repos\HelloConsole\HelloConsole\HelloConsole\obj\Debug\HelloConsole.csprojAssemblyReference.cache

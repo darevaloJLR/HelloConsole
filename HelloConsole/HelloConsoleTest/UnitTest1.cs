@@ -12,5 +12,10 @@ namespace helloConsoleTest
         {
             Assert.AreEqual("Hello Console", Program.createMessage());
         }
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Assert.AreEqual("Hello", Program.createMessage());
+        }
     }
 }
